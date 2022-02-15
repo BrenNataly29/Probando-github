@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
-            children: [Text('Probando Github')],
+            children: [Text('Probando Github Repo')],
           ),
         ),
       ),
